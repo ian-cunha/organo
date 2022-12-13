@@ -7,7 +7,6 @@ export const Banner = () => {
       <header className='banner'>
         <img src="/imagens/banner.png" alt="Banner principal da página do Organo" />
       </header>
-      <h1>Teste</h1>
     </>
   )
 }
